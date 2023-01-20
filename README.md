@@ -1,21 +1,34 @@
 <h1 align="center">Hi 👋, I'm Synertry</h1>
-<h3 align="center">An automation enthuasiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synertry&label=Profile%20views&color=0e75b6&style=flat" alt="synertry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=synertry" alt="synertry" /></a> </p>
+<h3 align="center">An automation enthuasiast and statistics lover</h3>
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Docker, Golang, PKI**
+- 💬 Ask me about **PowerShell, Docker, Golang, PKI**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- Some metrics: -->
+### Metrics
+![](https://komarev.com/ghpvc/?username=synertry&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/26037553-2968-4a93-9f0a-32c70706b3c0.svg?style=for-the-badge)](https://wakatime.com/@26037553-2968-4a93-9f0a-32c70706b3c0)
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- ### Connect with me:
+
+[![Steam profile](https://steam-stat.vercel.app/api?profileName=synertry)](https://steamcommunity.com/id/synertry/) -->
+### Core Languages and Tools:
+
+<!-- div with solid border of 1 px -->
+<div>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synertry&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="synertry" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synertry&show_icons=true&theme=tokyonight&locale=en" alt="synertry" /></p>
+### Platform independent coding stats:
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synertry&theme=tokyonight&layout=compact&langs_count=20&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Stats:
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=synertry&theme=tokyonight&show_icons=true&locale=en&layout=compact&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synertry&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=synertry&theme=tokyonight&title=Joined2020,Commits,PullRequest,Issues,Followers,Repositories&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
