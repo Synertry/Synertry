@@ -5,30 +5,48 @@
 
 - 💬 Ask me about **PowerShell, Docker, Golang, PKI**
 
-<!-- Some metrics: -->
 ### Metrics
-![](https://komarev.com/ghpvc/?username=synertry&style=for-the-badge)
-[![wakatime](https://wakatime.com/badge/user/26037553-2968-4a93-9f0a-32c70706b3c0.svg?style=for-the-badge)](https://wakatime.com/@26037553-2968-4a93-9f0a-32c70706b3c0)
 
-<!-- ### Connect with me:
+![Profile view counter](https://komarev.com/ghpvc/?username=synertry&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/26037553-2968-4a93-9f0a-32c70706b3c0.svg?style=for-the-badge)](https://wakatime.com/@Synertry)
 
-[![Steam profile](https://steam-stat.vercel.app/api?profileName=synertry)](https://steamcommunity.com/id/synertry/) -->
-### Core Languages and Tools:
+### Core Languages and Tools
 
 <!-- div with solid border of 1 px -->
-<div>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-</div>
+<p align="left">
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    </a>
+    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+    </a>
+</p>
 
+### Platform independent coding stats
 
-### Platform independent coding stats:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synertry&theme=tokyonight&layout=compact&langs_count=20&hide_border=true)](https://wakatime.com/@Synertry)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synertry&theme=tokyonight&layout=compact&langs_count=20&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
 
-### GitHub Stats:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=synertry&theme=tokyonight&show_icons=true&locale=en&layout=compact&no-bg=true&no-frame=true)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=synertry&theme=tokyonight&show_icons=true&locale=en&layout=compact&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synertry&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synertry&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=synertry&theme=tokyonight&title=Joined2020,Commits,PullRequest,Issues,Followers,Repositories&no-bg=true&no-frame=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=synertry&theme=tokyonight&title=Joined2020,Commits,PullRequest,Issues,Followers,Repositories&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### Gaming Stats
+[![Steam](https://steamcard.vercel.app/card/76561198151895079/tokyonight,en,badge,games,badges)](https://steamcommunity.com/id/synertry)
+
+[![osu!](https://osu-sig.vercel.app/card?user=Synertry&mode=std&lang=en&animation=true&hue=255)](https://osu.ppy.sh/u/Synertry)
