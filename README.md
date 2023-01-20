@@ -36,17 +36,22 @@
 
 ### Platform independent coding stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synertry&theme=tokyonight&layout=compact&langs_count=20&hide_border=true)](https://wakatime.com/@Synertry)
+[![Synertry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synertry&theme=tokyonight&layout=compact&langs_count=20&hide_border=true)](https://wakatime.com/@Synertry)
 
 ### GitHub Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=synertry&theme=tokyonight&show_icons=true&locale=en&layout=compact&no-bg=true&no-frame=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synertry&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Synertry's GitHub stats](https://github-readme-stats.vercel.app/api?username=synertry&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=synertry&theme=tokyonight&title=Joined2020,Commits,PullRequest,Issues,Followers,Repositories&no-bg=true&no-frame=true)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=synertry&theme=tokyonight&title=Joined2020,Commits,PullRequest,Issues,Followers,Repositories&no-bg=true&no-frame=true)
 
 ### Gaming Stats
+
+#### [Steam](https://store.steampowered.com/about/)
+
 [![Steam](https://steamcard.vercel.app/card/76561198151895079/tokyonight,en,badge,games,badges)](https://steamcommunity.com/id/synertry)
+
+#### [osu!](https://osu.ppy.sh/)
 
 [![osu!](https://osu-sig.vercel.app/card?user=Synertry&mode=std&lang=en&animation=true&hue=255)](https://osu.ppy.sh/u/Synertry)
