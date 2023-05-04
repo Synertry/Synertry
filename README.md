@@ -36,7 +36,7 @@
 
 ### Platform independent coding stats
 
-[![Synertry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synertry&theme=tokyonight&layout=compact&langs_count=20&hide_border=true)](https://wakatime.com/@Synertry)
+[![Synertry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Synertry&theme=tokyonight&layout=compact&langs_count=20&hide_border=true&range=all_time)](https://wakatime.com/@Synertry)
 
 ### GitHub Stats
 
