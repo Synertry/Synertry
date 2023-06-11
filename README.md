@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Synertry</h1>
-<h3 align="center">An automation enthuasiast and statistics lover</h3>
-
-- 🌱 I’m currently learning **Kubernetes**
+<h3 align="center">An automation enthusiast and statistics lover</h3>
 
 - 💬 Ask me about **PowerShell, Docker, Golang, PKI**
 
